@@ -1,3 +1,8 @@
+DEPRECATED - Use the package [loopback-extra-query-filters](https://github.com/herbertscruz/loopback-extra-query-filters)
+
+***
+
+<strike>
 # loopback-extra-filters
 This package is designed to provide filter alternatives under the loopback query data.
 
@@ -60,3 +65,4 @@ module.exports = function(server) {
   "isNotEmpty": "items" //or ["items", ...]
 }
 ```
+</strike>
